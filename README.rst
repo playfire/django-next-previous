@@ -1,4 +1,0 @@
-django-next-previous
-====================
-
-FIXME
